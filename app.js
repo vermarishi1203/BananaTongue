@@ -1,0 +1,1 @@
+// var btntranslate = document.querySelector("button");
